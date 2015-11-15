@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="73697" started-at="2015-11-05T18:36:48Z" finished-at="2015-11-05T18:38:02Z">
+  <suite name="Suite" duration-ms="11975" started-at="2015-11-15T08:32:03Z" finished-at="2015-11-15T08:32:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="73697" started-at="2015-11-05T18:36:48Z" finished-at="2015-11-05T18:38:02Z">
+    <test name="Test" duration-ms="11975" started-at="2015-11-15T08:32:03Z" finished-at="2015-11-15T08:32:15Z">
       <class name="Jenkins.JenkinsDemoJob">
-        <test-method status="PASS" signature="Jenkinstest()[pri:0, instance:Jenkins.JenkinsDemoJob@5a42bbf4]" name="Jenkinstest" duration-ms="73601" started-at="2015-11-06T00:06:48Z" finished-at="2015-11-06T00:08:01Z">
+        <test-method status="PASS" signature="Jenkinstest()[pri:0, instance:Jenkins.JenkinsDemoJob@490d6c15]" name="Jenkinstest" duration-ms="11955" started-at="2015-11-15T14:02:03Z" finished-at="2015-11-15T14:02:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Jenkinstest -->
