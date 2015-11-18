@@ -8,7 +8,7 @@ public class JenkinsDemoJob {
 	
 	@Test
 	public void Jenkinstest(){
-		System.out.println("Welcome to Test Git Jenkins World");
+		System.out.println("Welcome to Test Git  for Jenkins World");
 		
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://www.facebook.com");
