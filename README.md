@@ -1,2 +1,2 @@
-# MARATHON - Test Automation for Java/Swing and Java/FX applications
-# Marathon is a tool for recording, replaying, refactoring test cases for Java GUI programs developed using Swing or FX components. 
+# TestJxBrowserProject - Application development and test project for charity purpose conducting marathon run activities to draw attention and highlight the burning day-to-day activities like water conservation, pollution, and cleaniness which are major concern for the citizens.
+
